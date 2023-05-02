@@ -1,6 +1,6 @@
 # Critter | 🐦 Twitter Clone
 
-## Demo
+## Trailer
 
 <img src="assets/demo/critter-trailer.gif" alt="Critter Trailer" width="600px">
 
